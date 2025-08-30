@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bartolomeu18!
+# 👋 Olá, eu sou o Bartolomeu!
 
 🎓 **Estudante apaixonado por tecnologia**  
 Atualmente, estou focado em aprender e criar soluções usando PHP, Laravel, MySQL, HTML, CSS e Tailwind CSS. Busco sempre evoluir minhas habilidades e compartilhar conhecimento com a comunidade.
@@ -6,7 +6,7 @@ Atualmente, estou focado em aprender e criar soluções usando PHP, Laravel, MyS
 ## 🚀 Tecnologias & Ferramentas
 - **Backend:** PHP, Laravel
 - **Banco de Dados:** MySQL
-- **Frontend:** HTML, CSS, Tailwind CSS
+- **Frontend:** HTML, CSS,javascript, Tailwind CSS
 
 ## 💡 Sobre mim
 Sou uma pessoa curiosa, dedicada e em constante evolução. Acredito no poder da colaboração e estou sempre aberto a novas ideias, projetos e desafios!
